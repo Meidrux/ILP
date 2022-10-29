@@ -1,4 +1,5 @@
 # Alunos: Júlio Alisson e Daniel Correia
+# Ainda pretendo colocar uma UI
 import random
 vida = int(input('Insira o número de vidas: '))
 palavras = []
